@@ -6,6 +6,7 @@
     "esm": true
   },
   "compilerOptions": {
+    "experimentalDecorators": true,
     // Use ESM
     "module": "NodeNext",
     "moduleResolution": "nodenext",
